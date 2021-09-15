@@ -1,0 +1,23 @@
+
+body {
+    margin: 0;
+}
+
+header {
+    /* background-image: url("../../images/heroSection.svg"); */
+    background-size: auto;
+}
+
+.mark-page {
+    display: inline;
+}
+
+nav {
+    display: flex;
+
+}
+
+.right-section {
+
+}
+
