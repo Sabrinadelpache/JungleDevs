@@ -7,7 +7,7 @@ function Header() {
         <header className="container">
             <div className="nav">
                 <nav>
-                    <img src={mark} className="mark-page" alt="Initial icon" />
+                     <img src={mark} className="mark-page" alt="Initial icon" />
                     <span className="right-section">Create Your Nanny Share</span>
                     <span className="right-section">Browse Shares</span>
                     <span className="right-section">Our Story</span>
